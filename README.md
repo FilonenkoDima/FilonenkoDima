@@ -21,5 +21,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
-<p align="center"><img src="https://github.com/FilonenkoDima/FilonenkoDima/blob/main/result.gif" width="100%"/></p>
